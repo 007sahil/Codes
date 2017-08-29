@@ -1,8 +1,8 @@
-# Given an array containing N integers, you need to find the length of the smallest 
-# contiguous subarray that contains atleast KK distinct elements in it. Output "−1" if no such subarray exists.
+// Given an array containing N integers, you need to find the length of the smallest 
+//contiguous subarray that contains atleast KK distinct elements in it. Output "−1" if no such subarray exists.
 
 
-Solution ::
+//Solution ::
 
 
     
